@@ -25,12 +25,4 @@
     <PackageReference Include="Serilog.Sinks.File" Version="7.0.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="CSVDataHandling\" />
-    <Folder Include="Enums\" />
-    <Folder Include="Filter\" />
-    <Folder Include="InputCheck\" />
-    <Folder Include="Models\" />
-  </ItemGroup>
-
 </Project>
