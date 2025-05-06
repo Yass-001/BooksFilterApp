@@ -7,10 +7,6 @@ using BooksFilterApp.Enums;
 using BooksFilterApp.CSVDataHandling;
 using BooksFilterApp.Filter;
 
-// c:\books.csv
-// c:\books_copy.csv
-// c:\books_temp.csv
-
 Console.WriteLine("Welcome to \"BOOKS\" app!\n" +
     "Please define how the App will work.\n" +
     "If you want to create books database - choose - \"D\"\n" +
